@@ -1,0 +1,16 @@
+/* components/Header.module.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+  }
+  
+  .searchBar {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+  }
+  

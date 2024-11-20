@@ -1,0 +1,11 @@
+/* components/MainContent.module.css */
+.mainContent {
+    padding: 20px;
+  }
+  
+  .playlist {
+    background-color: #282828;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  
